@@ -1,2 +1,2 @@
 # Ede
- A task.
+ Egy feladat.
